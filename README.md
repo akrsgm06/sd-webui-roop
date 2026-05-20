@@ -1,3 +1,11 @@
+## This project has been archived
+
+**When I originally built this project, I approached it primarily as a technical experiment in generative media. Not long after releasing it, my view of the broader second-order effects around software in this category changed.**
+
+**Because of that, I chose to stop development and archive the repository.**
+
+Update: This repository has been archived to prevent pull requests.
+
 # roop for StableDiffusion
 
 This is an extension for StableDiffusion's [AUTOMATIC1111 web-ui](https://github.com/AUTOMATIC1111/stable-diffusion-webui/) that allows face-replacement in images. It is based on [roop](https://github.com/s0md3v/roop) but will be developed seperately.
